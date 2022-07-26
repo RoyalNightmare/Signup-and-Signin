@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Signup</string>
+    <string name="ma_title">SIGN UP ACTIVITY</string>
+    <string name="sa_title">LOGIN IN ACTIVITY</string>
+    <string name="Uname">Username</string>
+    <string name="pas">Password</string>
+    <string name="sigup">SIGN UP</string>
+    <string name="signin">SIGN IN</string>
+
+
+
+
+
+</resources>
